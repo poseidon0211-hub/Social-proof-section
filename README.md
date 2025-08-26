@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
- 
+![](screenshot/desktop.png)
+![](screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/stats-preview-card-coponent-wp8XAbrBA1" target="_blank" rel="noreferrer"> Solution </a>
+- Live Site URL: <a href="https://stats-preview-carrd-component.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
@@ -45,16 +46,6 @@ Users should be able to:
 ### What I learned
 
 - This project was an excellent way to practice creating a flexible and responsive layout. I focused on using Flexbox to manage the main containers and their children. The key to the desktop layout was using `flex-wrap` and negative margins/transformations to create the staggered card effect.
-
-- Here's an example of how I created the staggered look for the testimonials:
-
-```css
-.testimonial-card--irene {
-  transform: translateY(16px);
-}
-.testimonial-card--anne {
-  transform: translateY(32px);
-}
 
 
 ### Continued development
